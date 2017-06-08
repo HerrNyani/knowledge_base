@@ -1,2 +1,1 @@
-# knowledge_base
-Personal knowledge base containing user guides, troubleshooting guides etc.
+Guides can be found in the [Repository wiki](https://github.com/HerrNyani/knowledge_base/wiki).
